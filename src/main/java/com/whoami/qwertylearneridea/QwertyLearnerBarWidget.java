@@ -9,7 +9,6 @@ import com.intellij.openapi.util.TextRange;
 import com.intellij.openapi.wm.StatusBar;
 import com.intellij.openapi.wm.StatusBarWidget;
 import com.intellij.openapi.wm.WindowManager;
-import com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetSettings;
 import com.intellij.util.Consumer;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
