@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件  VSCode 摸🐟版
+  为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件  Idea版
 </p>
 <p align="center">
   <a href="https://github.com/echo-LuGuang/qwerty-learner-idea/blob/master/LICENSE"><img src="https://img.shields.io/github/license/KaiyiWing/qwerty-learner-vscode" alt="License"></a>
