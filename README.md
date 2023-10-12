@@ -1,3 +1,6 @@
+### 这是一个演示版本，不建议直接使用！！！ <a href="https://github.com/echo-LuGuang/qwerty-learner-idea/issues/1#issuecomment-1759254039">原因</a>
+
+
 <div align=center>
 <img  src="docs/logo.png" width="200px"/>
 </div>
